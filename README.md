@@ -1,8 +1,8 @@
-#Menu Maker by Qwenta - Site de création de menu
+# Menu Maker by Qwenta - Site de création de menu
 
 ![Bannière du site](./images/FR_1156_P7_Banner-Qwenta.avif)
 
-## Tags
+## Badges
 
 ![image](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)
 ![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
